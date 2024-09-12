@@ -1,3 +1,54 @@
+# Web Admin React JS
+
+## <a name="introduction"></a> Introduction :
+Website admin ini merupakan aplikasi dashboard berbasis web yang dirancang untuk memudahkan pengelolaan data, pengguna, dan konten secara efisien. Aplikasi ini dikembangkan menggunakan React JS, sebuah framework JavaScript modern untuk membangun antarmuka pengguna (UI) yang dinamis, serta Tailwind CSS, yang merupakan framework CSS utility-first untuk mendesain layout yang responsif dan cepat.
+
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Features](#features)
+- [Libraries](#libraries)
+- [Project Structure](#project-structures)
+- [APK Link](#apk-link)
+
+## <a name="features"></a> Features :
+You may list what feature you created, example :
+- Dashboard
+- Order Page
+- Employees Page
+- Customers Page
+- Calendar App
+- Kanban App
+- Editor App
+- Color Picker App
+- Line Chart
+- Area Chart
+- Bar Chart
+- Pie Chart
+- Financial Chart
+- Color Mapping Chart
+- Pyramid Chart
+- Stacked Chart
+
+## <a name="libraries"></a> Libraries :
+- ReactJS
+- Syncfusion
+- Tailwind
+- React Router Dom
+
+## <a name="project-structures"></a> Project Structure :
+* `components`
+* `charts`
+* `context`
+* `data`
+* `pages`
+
+## <a name="apk-link"></a> Website URL :
+[Link Github](https://github.com/irvannasyakban/Web-Admin-ReactJS)
+
+<hr>
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
